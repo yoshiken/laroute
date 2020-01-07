@@ -4,8 +4,12 @@
     "keywords"  : ["laravel", "routes", "routing", "javascript"],
     "authors": [
         {
-            "name": "Aaron Lord, Kenta Yoshida",
-            "email": "hello@aaronlord.is, yskn.beer@gmail.com"
+            "name": "Aaron Lord",
+            "email": "hello@aaronlord.is"
+        },
+        {
+            "name": "Kenta Yoshida",
+            "email": "yskn.beer@gmail.com"
         }
     ],
     "license" : "MIT",
